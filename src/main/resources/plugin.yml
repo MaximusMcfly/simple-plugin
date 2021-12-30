@@ -1,0 +1,15 @@
+name: Futuratest
+version: '${project.version}'
+main: org.futura.mc.futuratest.Futuratest
+authors: [ FuturAura ]
+description: Plugin
+website: https://futuraweb.space
+commands:
+  starter:
+    description: Small kit start
+  easy:
+    description: Message about this work
+  kit:
+    description: Gives some diamonds
+  money:
+    description: a good message for dad)
